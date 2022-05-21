@@ -20,6 +20,8 @@ public class Index {
 	System.out.println(indexOf4);
 	int indexOf5 = s5.indexOf("8");
 	System.out.println(indexOf5);
+	System.out.println("string passed");
+	
 	}
 
 }
